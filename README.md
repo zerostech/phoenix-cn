@@ -4,22 +4,22 @@ Apache Phoenix 文档中文翻译
 ## 翻译计划
 
 - Using
-      - [ ] F.A.Q.
-      - [ ] Quick Start
-      - [ ] Building
-      - [ ] Tuning
-      - [ ] Explain Plan
-      - [ ] Configuration
-      - [ ] Backward Compatibility
-      - [ ] Release Notes
-      - [ ] Performance Testing
-      - [ ] Apache Spark Integration
-      - [ ] Phoenix Storage Handler for Apache Hive
-      - [ ] Apache Pig Integration
-      - [ ] Map Reduce Integration
-      - [ ] Apache Flume Plugin
-      - [ ] Apache Kafka Plugin
-      - [ ] Python Driver
+  - [ ] F.A.Q.
+  - [ ] Quick Start
+  - [ ] Building
+  - [ ] Tuning
+  - [ ] Explain Plan
+  - [ ] Configuration
+  - [ ] Backward Compatibility
+  - [ ] Release Notes
+  - [ ] Performance Testing
+  - [ ] Apache Spark Integration
+  - [ ] Phoenix Storage Handler for Apache Hive
+  - [ ] Apache Pig Integration
+  - [ ] Map Reduce Integration
+  - [ ] Apache Flume Plugin
+  - [ ] Apache Kafka Plugin
+  - [ ] Python Driver
 - Features
   - [ ] Transactions
   - [ ] User-defined Functions
